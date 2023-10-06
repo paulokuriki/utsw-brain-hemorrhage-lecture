@@ -11,7 +11,7 @@ This collection offers insights into machine learning concepts, dataset creation
 4. **Use Cases**: Exploration of how AI is revolutionizing Radiology.
 5. **Kickstart Your AI Project**: A step-by-step guide to initiating your own AI project.
 
-For the complete presentation, check out the provided PowerPoint file in the repository.
+[AI_in_Neuroradiology_Presentation.pptx](https://github.com/paulokuriki/utsw-brain-hemorrhage-lecture/raw/main/AI_in_Neuroradiology_Presentation.pptx)
 
 ## Jupyter Notebook Overview
 The accompanying Jupyter notebook takes users on an explorative journey of machine learning features:
@@ -19,7 +19,7 @@ The accompanying Jupyter notebook takes users on an explorative journey of machi
 2. Advanced Classification: Differentiating between apples and bananas using multiple features.
 3. Image Features: Understanding and transforming image data suitable for machine learning.
 
-The notebook combines theoretical explanations with practical Python code, making it ideal for learners at all levels.
+The [notebook](https://github.com/paulokuriki/utsw-brain-hemorrhage-lecture/blob/main/input_and_models.ipynb) combines theoretical explanations with practical Python code, making it ideal for learners at all levels.
 
 ## Dataset Preparation
 For those interested in the behind-the-scenes process of dataset creation for this lecture, visit [rsna-intracranial-hemorrhage-dataset](https://github.com/paulokuriki/rsna-intracranial-hemorrhage-dataset).
