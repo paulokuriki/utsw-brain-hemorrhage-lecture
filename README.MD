@@ -19,7 +19,9 @@ The accompanying Jupyter notebook takes users on an explorative journey of machi
 2. Advanced Classification: Differentiating between apples and bananas using multiple features.
 3. Image Features: Understanding and transforming image data suitable for machine learning.
 
-The [notebook](https://github.com/paulokuriki/utsw-brain-hemorrhage-lecture/blob/main/input_and_models.ipynb) combines theoretical explanations with practical Python code, making it ideal for learners at all levels.
+The notebook combines theoretical explanations with practical Python code, making it ideal for learners at all levels.
+
+[Jupyter Notebook](https://github.com/paulokuriki/utsw-brain-hemorrhage-lecture/blob/main/input_and_models.ipynb)
 
 ## Dataset Preparation
 For those interested in the behind-the-scenes process of dataset creation for this lecture, visit [rsna-intracranial-hemorrhage-dataset](https://github.com/paulokuriki/rsna-intracranial-hemorrhage-dataset).
